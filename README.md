@@ -1,3 +1,5 @@
+#Main GIT commands
+
 **git init**  
 create repository.
   
@@ -18,7 +20,7 @@ send to remote repository.
 get latest changes on brach.  
   
 
-**git checkout <part of commit number or 'master' to get actual version>** 
+**git checkout <part of commit number or 'master' to get actual version>**  
 get specific version, but cannot do commits.  
   
 **git checkout -- <path or name or . >**  
@@ -29,4 +31,4 @@ undo changes before 'git add'.
 undo changes after 'git add'.  
   
 
-[link to Markdown syntax helper](https://github.com/luongvo209/Markdown-Tutorial/blob/master/README_pt-BR.md)
+[Markdown syntax helper](https://github.com/luongvo209/Markdown-Tutorial/blob/master/README_pt-BR.md)
