@@ -1,4 +1,4 @@
-#Main GIT commands
+# Main GIT commands
 
 **git init**  
 create repository.
