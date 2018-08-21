@@ -1,31 +1,31 @@
-**Bold**git init  
+**git init**  
 create repository.
   
 
-**Bold**git commit  
+**git commit**  
 execute changes on branch.
   
 
-**Bold**git add <path or name or . >  
+**git add** <path or name or . >  
 select changes to commit.  
   
 
-**Bold**git push  
+**git push**  
 send to remote repository.  
   
 
-**Bold**git pull  
+**git pull**  
 get latest changes on brach.  
   
 
-**Bold**git checkout <part of commit number or 'master' to get actual version>  
+**git checkout** <part of commit number or 'master' to get actual version>  
 get specific version, but cannot do commits.  
   
-**Bold**git checkout -- <path or name or . >  
+**git checkout -- **<path or name or . >  
 undo changes before 'git add'. 
   
 
-**Bold**git checkout HEAD -- <path or name or . >  
+**git checkout HEAD -- **<path or name or . >  
 undo changes after 'git add'.  
   
 
